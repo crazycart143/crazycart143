@@ -1,4 +1,4 @@
-# Hi there! I'm Keanu John Lariosa 👋
+# Hello there! I'm Keanu John Lariosa 👋
 
 Welcome to my GitHub sanctuary, where the alchemy of web development unfolds. Here, I weave together React, Next, and other prominent tech-stacks to craft immersive user experiences and bring pixel-perfect designs to life. Join me on this digital odyssey as we code the future, explore new frontiers, and create web solutions that leave a lasting impression.
 
