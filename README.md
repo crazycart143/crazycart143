@@ -6,6 +6,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello there 👋, I'm Keanu John Lariosa</h1></summary>
+    <li><a href="https://keanujohnlariosa.vercel.app/" target="_blank"><strong>Portfolio</strong></a></li>
   </ul>
 </div>
 
